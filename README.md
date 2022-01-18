@@ -9,3 +9,5 @@
 # issues-faced-while-automating
 * CHROMEDRIVER file has insufficient permission : Run this command in bash cosole (chmod 755 "/home/imlucifer/servicenow-auto-login/chromedriver)
 * Version errors : As i was using python3.9 interpreter i upgraded my selenium using this command (pip3.9 install --user --upgrade selenium)
+
+## Python Anywhere requires you to login every 30 days in order to continue your task on a free account tier. So make sure to login every 30 days to your python anywhere account.
